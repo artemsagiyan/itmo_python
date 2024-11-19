@@ -1,0 +1,10 @@
+python3 wc.py artifacts/input.txt 
+      12     338    2022 input.txt
+
+python3 wc.py artifacts/input.txt artifacts/input2.txt 
+      12     338    2022 input.txt
+      12     338    2022 input2.txt
+      24     676    4044 total
+
+
+
