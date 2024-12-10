@@ -1,0 +1,70 @@
+Execution time comparison:
+
+Thread Pool:
+  1 jobs: 0.7407 seconds
+  2 jobs: 0.7679 seconds
+  3 jobs: 0.9328 seconds
+  4 jobs: 1.1227 seconds
+  5 jobs: 0.9434 seconds
+  6 jobs: 0.8473 seconds
+  7 jobs: 1.0198 seconds
+  8 jobs: 0.8283 seconds
+  9 jobs: 1.0979 seconds
+  10 jobs: 1.2120 seconds
+  11 jobs: 1.0354 seconds
+  12 jobs: 1.0694 seconds
+  13 jobs: 1.2773 seconds
+  14 jobs: 1.0090 seconds
+  15 jobs: 1.2784 seconds
+  16 jobs: 1.1871 seconds
+  17 jobs: 1.2423 seconds
+  18 jobs: 0.9948 seconds
+  19 jobs: 1.2318 seconds
+  20 jobs: 1.3122 seconds
+  21 jobs: 1.2360 seconds
+  22 jobs: 1.2370 seconds
+  23 jobs: 1.3447 seconds
+  24 jobs: 1.3403 seconds
+  25 jobs: 1.2380 seconds
+  26 jobs: 1.5474 seconds
+  27 jobs: 1.4920 seconds
+  28 jobs: 1.2628 seconds
+  29 jobs: 1.2116 seconds
+  30 jobs: 1.4914 seconds
+  31 jobs: 1.3505 seconds
+  32 jobs: 1.4056 seconds
+
+Process Pool:
+  1 jobs: 0.7796 seconds
+  2 jobs: 0.3727 seconds
+  3 jobs: 0.2651 seconds
+  4 jobs: 0.2016 seconds
+  5 jobs: 0.2240 seconds
+  6 jobs: 0.2017 seconds
+  7 jobs: 0.1969 seconds
+  8 jobs: 0.1806 seconds
+  9 jobs: 0.1562 seconds
+  10 jobs: 0.1401 seconds
+  11 jobs: 0.1387 seconds
+  12 jobs: 0.1299 seconds
+  13 jobs: 0.1190 seconds
+  14 jobs: 0.1133 seconds
+  15 jobs: 0.1133 seconds
+  16 jobs: 0.1136 seconds
+  17 jobs: 0.1329 seconds
+  18 jobs: 0.1337 seconds
+  19 jobs: 0.1368 seconds
+  20 jobs: 0.1344 seconds
+  21 jobs: 0.1370 seconds
+  22 jobs: 0.1428 seconds
+  23 jobs: 0.1298 seconds
+  24 jobs: 0.1290 seconds
+  25 jobs: 0.1375 seconds
+  26 jobs: 0.1289 seconds
+  27 jobs: 0.1256 seconds
+  28 jobs: 0.1336 seconds
+  29 jobs: 0.1334 seconds
+  30 jobs: 0.1459 seconds
+  31 jobs: 0.1258 seconds
+  32 jobs: 0.1299 seconds
+

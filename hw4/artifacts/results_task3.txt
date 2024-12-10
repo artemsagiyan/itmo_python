@@ -1,0 +1,5 @@
+[2024-12-10 23:48:03] Main process sent: dfg
+[2024-12-10 23:48:04] Main process sent: w3rf
+[2024-12-10 23:48:05] Main process sent: 23
+[2024-12-10 23:48:06] Main process sent: 34tv
+[2024-12-10 23:48:07] Main process sent: qcewc
